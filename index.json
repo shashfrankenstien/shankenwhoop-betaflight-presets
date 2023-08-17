@@ -170,8 +170,8 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/other/BTFL_cli_shankenwhoop.txt",
-      "hash": "6f7102bed92f9ac0a37c52ffabd26dd890394fedaa95f1c4b97fb5e7d7d83a0d",
+      "fullPath": "presets/4.4/other/shankenwhoop_diff.txt",
+      "hash": "d309d2f51bb41deebd5d58ead1c9086aebc7f288f11d5af444b662a0eb78a307",
       "title": "shankenwhoop diff",
       "firmware_version": [
         "4.4.1"
