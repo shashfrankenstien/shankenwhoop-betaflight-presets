@@ -170,6 +170,21 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/other/shanken-f65_diff.txt",
+      "hash": "06f59093f9272ed9a836f0bf87aa58d6edf6cbf5bddef4ebd20a6f64e5fffe5b",
+      "title": "shanken-f65 diff",
+      "firmware_version": [
+        "4.4.1"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Diff"
+      ],
+      "author": "shankenwhoop",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/other/shankenwhoop_diff.txt",
       "hash": "d309d2f51bb41deebd5d58ead1c9086aebc7f288f11d5af444b662a0eb78a307",
       "title": "shankenwhoop diff",

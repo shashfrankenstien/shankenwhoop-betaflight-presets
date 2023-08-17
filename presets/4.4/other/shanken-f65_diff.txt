@@ -1,0 +1,17 @@
+#$ TITLE: shanken-f65 diff
+#$ FIRMWARE_VERSION: 4.4.1
+#$ CATEGORY: OTHER
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: Diff
+#$ AUTHOR: shankenwhoop
+#$ DESCRIPTION: Diff of shanken-f65 - Betaflight 4.4.1 custom fractal65 build
+#$ DESCRIPTION:
+#$ DESCRIPTION: FC: Happymodel F4 ELRS 2G4
+#$ DESCRIPTION: Frame: Fractal 65 with Meteor65 ducts
+#$ DESCRIPTION: Motor: Happymodel SE0702 26000 KV
+#$ DESCRIPTION: Props: Gemfan 31mm 1210 Bi-blades
+#$ DESCRIPTION: Camera: Tinywhoop Pinch
+#$ DESCRIPTION: Weight: ~18.7g
+
+
+#$ INCLUDE: presets/4.4/other/BTFL_cli_shanken-f65.txt.inc
