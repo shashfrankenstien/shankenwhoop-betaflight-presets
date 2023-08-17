@@ -5,8 +5,7 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: OSD
 #$ AUTHOR: shankenwhoop
-#$ FORCE_OPTIONS_REVIEW: TRUE
-
+#$ DESCRIPTION: Sets standard OSD elements and positions that best suite my personal preferences
 
 
 set osd_rssi_pos = 314
