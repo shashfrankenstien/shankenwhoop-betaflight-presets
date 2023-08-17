@@ -1,11 +1,10 @@
-#$ TITLE: Shankenwhoop personal bindphrase
+#$ TITLE: Personal ELRS bind phrase
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: RC_LINK
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: ELRS, express
 #$ AUTHOR: shankenwhoop
-#$ FORCE_OPTIONS_REVIEW: TRUE
+#$ DESCRIPTION: Set ELRS bind phrase to SGExpressLRS
 
-# bindphrase is SGExpressLRS
 set expresslrs_uid = 74,41,14,5,199,104

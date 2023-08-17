@@ -1,4 +1,4 @@
-#$ TITLE: Shankenwhoop OSD Elements
+#$ TITLE: OSD Elements
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
