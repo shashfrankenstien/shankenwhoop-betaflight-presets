@@ -1,6 +1,6 @@
 #$ TITLE: shankenwhoop diff
 #$ FIRMWARE_VERSION: 4.4.1
-#$ CATEGORY: Diff
+#$ CATEGORY: OTHER
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: Diff
 #$ AUTHOR: shankenwhoop

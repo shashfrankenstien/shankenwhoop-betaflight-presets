@@ -134,16 +134,19 @@
   "uniqueValues": {
     "firmware_version": [
       "4.4",
+      "4.4.1",
       "4.5"
     ],
     "category": [
       "OSD",
+      "OTHER",
       "RC_LINK"
     ],
     "author": [
       "shankenwhoop"
     ],
     "keywords": [
+      "Diff",
       "ELRS",
       "express",
       "OSD"
@@ -152,8 +155,8 @@
   "presets": [
     {
       "fullPath": "presets/4.4/osd/shankenwhoop_analog.txt",
-      "hash": "4266dfcd91a0e4061311655440532b1f2c4288fee83808e6bf0747548b7ac44c",
-      "title": "Shankenwhoop OSD Elements",
+      "hash": "de23c2c1cce9766971f0074ed60fadb099fc25ffc820ef4fe141de84dc8c879c",
+      "title": "OSD Elements",
       "firmware_version": [
         "4.4",
         "4.5"
@@ -164,13 +167,27 @@
         "OSD"
       ],
       "author": "shankenwhoop",
-      "force_options_review": true,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/other/BTFL_cli_shankenwhoop.txt",
+      "hash": "6f7102bed92f9ac0a37c52ffabd26dd890394fedaa95f1c4b97fb5e7d7d83a0d",
+      "title": "shankenwhoop diff",
+      "firmware_version": [
+        "4.4.1"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Diff"
+      ],
+      "author": "shankenwhoop",
       "priority": 0
     },
     {
       "fullPath": "presets/4.4/rc_link/shankenwhoop_bindphrase.txt",
-      "hash": "64073781fcc76fccb5d0173e64eade76204f88a42d1e56b23480123ec38751b1",
-      "title": "Shankenwhoop personal bindphrase",
+      "hash": "3f6875b26f9fe11801eaac78cfd9e06494171ad7375c716f6308421fd95a1f36",
+      "title": "Personal ELRS bind phrase",
       "firmware_version": [
         "4.4",
         "4.5"
@@ -182,7 +199,6 @@
         "express"
       ],
       "author": "shankenwhoop",
-      "force_options_review": true,
       "priority": 10000000000
     }
   ]
