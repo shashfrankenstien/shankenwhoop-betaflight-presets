@@ -1,0 +1,10 @@
+#$ TITLE: Shankenwhoop OSD Elements
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: OSD
+#$ AUTHOR: shankenwhoop
+#$ FORCE_OPTIONS_REVIEW: TRUE
+
+#$ INCLUDE: presets/4.4/osd/defaults.txt
