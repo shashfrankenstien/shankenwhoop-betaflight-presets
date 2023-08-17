@@ -1,0 +1,18 @@
+#$ TITLE: shankenwhoop diff
+#$ FIRMWARE_VERSION: 4.4.1
+#$ CATEGORY: OTHER
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: Diff
+#$ AUTHOR: shankenwhoop
+#$ DESCRIPTION: Diff of shankenwhoop - Betaflight 4.4.1 custom whoop build
+#$ DESCRIPTION:
+#$ DESCRIPTION: AIO: Happymodel F4 ELRS 2G4
+#$ DESCRIPTION: Frame: BWhoop65 or Happymodel Mobula6 frame
+#$ DESCRIPTION: Motor: Happymodel EX0802 25000 KV
+#$ DESCRIPTION: Props: Gemfan 31mm 1219 Tri-Blade
+#$ DESCRIPTION: Camera: Tinywhoop Pinch
+#$ DESCRIPTION: Canopy: 3D Printed TPU
+#$ DESCRIPTION: Weight: ~21g
+
+
+#$ INCLUDE: presets/4.4/other/BTFL_cli_shankenwhoop.txt.inc
