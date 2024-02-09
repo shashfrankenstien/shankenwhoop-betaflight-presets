@@ -1,0 +1,15 @@
+#$ TITLE: Personal VTX settings
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: VTX
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: VTX
+#$ AUTHOR: shankenwhoop
+#$ DESCRIPTION: Set VTX to RACEBAND Channel 1 + Pit mode on untill first arm
+
+
+set vtx_band = 5
+set vtx_channel = 1
+set vtx_power = 3
+set vtx_low_power_disarm = UNTIL_FIRST_ARM
+set vtx_freq = 5658

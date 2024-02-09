@@ -8,3 +8,5 @@
 #$ DESCRIPTION: Set ELRS bind phrase to SGExpressLRS
 
 set expresslrs_uid = 74,41,14,5,199,104
+set expresslrs_rate_index = 1
+set expresslrs_switch_mode = HYBRID
