@@ -140,7 +140,8 @@
     "category": [
       "OSD",
       "OTHER",
-      "RC_LINK"
+      "RC_LINK",
+      "VTX"
     ],
     "author": [
       "shankenwhoop"
@@ -149,7 +150,9 @@
       "Diff",
       "ELRS",
       "express",
-      "OSD"
+      "Misc",
+      "OSD",
+      "VTX"
     ]
   },
   "presets": [
@@ -200,8 +203,24 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/other/shankenwhoop_misc.txt",
+      "hash": "640921b5aefbabeff2dbedf9b674a619b56a2876915fb131b52a4a7cdaa9e660",
+      "title": "Personal Misc settings",
+      "firmware_version": [
+        "4.4",
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Misc"
+      ],
+      "author": "shankenwhoop",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/rc_link/shankenwhoop_bindphrase.txt",
-      "hash": "3f6875b26f9fe11801eaac78cfd9e06494171ad7375c716f6308421fd95a1f36",
+      "hash": "d6596335b5507372dec89948f7dcab8a73a4351a0d1cf5753111dfd0ac7d374f",
       "title": "Personal ELRS bind phrase",
       "firmware_version": [
         "4.4",
@@ -215,6 +234,22 @@
       ],
       "author": "shankenwhoop",
       "priority": 10000000000
+    },
+    {
+      "fullPath": "presets/4.4/vtx/shankenwhoop_vtx.txt",
+      "hash": "56e3dd37390b8d17b080842781119a0b835642fdae6b53d948d389945d00af56",
+      "title": "Personal VTX settings",
+      "firmware_version": [
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "VTX"
+      ],
+      "author": "shankenwhoop",
+      "priority": 1000000
     }
   ]
 }
