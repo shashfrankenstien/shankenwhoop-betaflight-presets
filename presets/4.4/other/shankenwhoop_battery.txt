@@ -1,11 +1,11 @@
-#$ TITLE: Personal Misc settings
+#$ TITLE: Personal Battery settings
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OTHER
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: Misc
 #$ AUTHOR: shankenwhoop
-#$ DESCRIPTION: Misc Settings. See CLI
+#$ DESCRIPTION: Battery Settings. See CLI
 
 
 # Battery voltage settings
@@ -15,11 +15,3 @@ set vbat_warning_cell_voltage = 335
 
 # Battery Sag
 set vbat_sag_compensation = 100
-
-
-# Modes
-aux 0 0 0 1800 2100 0 0
-aux 1 1 1 900 1200 0 0
-aux 2 2 1 1300 1700 0 0
-aux 3 13 3 1775 2100 0 0
-aux 4 35 3 1800 2100 0 0

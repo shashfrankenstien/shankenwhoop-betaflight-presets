@@ -151,11 +151,28 @@
       "ELRS",
       "express",
       "Misc",
+      "Modes",
       "OSD",
       "VTX"
     ]
   },
   "presets": [
+    {
+      "fullPath": "presets/4.4/modes/shankenwhoop_modes.txt",
+      "hash": "b83a9621e0043857799c576d4c8bec9cc7c2bd92db97bf2ffe7c8c6ba798e9ee",
+      "title": "Modes settings",
+      "firmware_version": [
+        "4.4",
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Modes"
+      ],
+      "author": "shankenwhoop",
+      "priority": 0
+    },
     {
       "fullPath": "presets/4.4/osd/shankenwhoop_analog.txt",
       "hash": "de23c2c1cce9766971f0074ed60fadb099fc25ffc820ef4fe141de84dc8c879c",
@@ -188,6 +205,22 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/other/shankenwhoop_battery.txt",
+      "hash": "7652bb1c5e6d3b22df930aa098ad66db40d4c42873d390b00aa3a2bc37be7a1b",
+      "title": "Personal Battery settings",
+      "firmware_version": [
+        "4.4",
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Misc"
+      ],
+      "author": "shankenwhoop",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/other/shankenwhoop_diff.txt",
       "hash": "d309d2f51bb41deebd5d58ead1c9086aebc7f288f11d5af444b662a0eb78a307",
       "title": "shankenwhoop diff",
@@ -198,22 +231,6 @@
       "status": "COMMUNITY",
       "keywords": [
         "Diff"
-      ],
-      "author": "shankenwhoop",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.4/other/shankenwhoop_misc.txt",
-      "hash": "640921b5aefbabeff2dbedf9b674a619b56a2876915fb131b52a4a7cdaa9e660",
-      "title": "Personal Misc settings",
-      "firmware_version": [
-        "4.4",
-        "4.5"
-      ],
-      "category": "OTHER",
-      "status": "COMMUNITY",
-      "keywords": [
-        "Misc"
       ],
       "author": "shankenwhoop",
       "priority": 0
