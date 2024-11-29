@@ -18,6 +18,7 @@ set osd_vtx_channel_pos = 2433
 set osd_current_pos = 288
 set osd_craft_name_pos = 2081
 set osd_pidrate_profile_pos = 2401
+set osd_rate_profile_name_pos = 2369
 set osd_warnings_pos = 2249
 set osd_avg_cell_voltage_pos = 2413
 set osd_disarmed_pos = 2314
