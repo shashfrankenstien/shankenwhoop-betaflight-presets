@@ -140,19 +140,27 @@
     "category": [
       "OSD",
       "OTHER",
+      "RATES",
       "RC_LINK",
       "VTX"
     ],
     "author": [
+      "Betaflight",
       "shankenwhoop"
     ],
     "keywords": [
+      "defaults",
       "Diff",
       "ELRS",
       "express",
+      "freestyle",
       "Misc",
       "Modes",
       "OSD",
+      "race",
+      "rates",
+      "reset",
+      "shankenwhoop",
       "VTX"
     ]
   },
@@ -174,8 +182,25 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/osd/defaults.txt",
+      "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
+      "title": "Default 4.4 OSD settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/osd/shankenwhoop_analog.txt",
-      "hash": "de23c2c1cce9766971f0074ed60fadb099fc25ffc820ef4fe141de84dc8c879c",
+      "hash": "8f7d0f0c5fac30db968926005ff72501a78182f59019cbeef9146e63c0dcb774",
       "title": "OSD Elements",
       "firmware_version": [
         "4.4",
@@ -236,6 +261,25 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/rates/shankenwhoop_std.txt",
+      "hash": "1711bd8e9ac6eab4c62c5e93118aaad42859278e3df0058026f65cdfe4b73e12",
+      "title": "Custom Freestyle and Race Rates",
+      "firmware_version": [
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "shankenwhoop",
+        "rates",
+        "race",
+        "freestyle"
+      ],
+      "author": "shankenwhoop",
+      "priority": 10000
+    },
+    {
       "fullPath": "presets/4.4/rc_link/shankenwhoop_bindphrase.txt",
       "hash": "d6596335b5507372dec89948f7dcab8a73a4351a0d1cf5753111dfd0ac7d374f",
       "title": "Personal ELRS bind phrase",
@@ -254,7 +298,7 @@
     },
     {
       "fullPath": "presets/4.4/vtx/shankenwhoop_vtx.txt",
-      "hash": "56e3dd37390b8d17b080842781119a0b835642fdae6b53d948d389945d00af56",
+      "hash": "37276e7ad4c938f37c935c61728d4d578d75b146f8ecd57f5b8d767ef6527b7c",
       "title": "Personal VTX settings",
       "firmware_version": [
         "4.4",
