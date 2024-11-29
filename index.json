@@ -261,8 +261,8 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/rates/shankenwhoop_std.txt",
-      "hash": "1711bd8e9ac6eab4c62c5e93118aaad42859278e3df0058026f65cdfe4b73e12",
+      "fullPath": "presets/4.4/rates/shankenwhoop_std_rates.txt",
+      "hash": "2b2692684e69994fc3c7d52725eb543b9c08cbc30f718b7640e126f6cefce837",
       "title": "Custom Freestyle and Race Rates",
       "firmware_version": [
         "4.4",
