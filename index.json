@@ -167,8 +167,8 @@
   "presets": [
     {
       "fullPath": "presets/4.4/modes/shankenwhoop_modes.txt",
-      "hash": "b83a9621e0043857799c576d4c8bec9cc7c2bd92db97bf2ffe7c8c6ba798e9ee",
-      "title": "Modes settings",
+      "hash": "38f0f5764468dd799cc5b11a99cd4c1d545d925d2a3afef96473964aed02862c",
+      "title": "Shankenwhoop - Modes settings",
       "firmware_version": [
         "4.4",
         "4.5"
@@ -200,8 +200,8 @@
     },
     {
       "fullPath": "presets/4.4/osd/shankenwhoop_analog.txt",
-      "hash": "85eb718338a09e44d11dffdeb9a38ff3f94924ff7b91fc7eeb9534a1a8799207",
-      "title": "OSD Elements",
+      "hash": "8c5d51c5a388b5db4673e49b1656751c7a065b82ab889364323997fd19cadc52",
+      "title": "Shankenwhoop - OSD Elements",
       "firmware_version": [
         "4.4",
         "4.5"
@@ -262,8 +262,8 @@
     },
     {
       "fullPath": "presets/4.4/rates/shankenwhoop_std_rates.txt",
-      "hash": "2b2692684e69994fc3c7d52725eb543b9c08cbc30f718b7640e126f6cefce837",
-      "title": "Custom Freestyle and Race Rates",
+      "hash": "7c63f245e647fbaae33138f714e0471ae5c95e57046784ebfcaf757f1a90e13c",
+      "title": "Shankenwhoop - Freestyle and Race Rates",
       "firmware_version": [
         "4.4",
         "4.5"
@@ -281,8 +281,8 @@
     },
     {
       "fullPath": "presets/4.4/rc_link/shankenwhoop_bindphrase.txt",
-      "hash": "d6596335b5507372dec89948f7dcab8a73a4351a0d1cf5753111dfd0ac7d374f",
-      "title": "Personal ELRS bind phrase",
+      "hash": "91cfb14bc53d07bed4adcea59537d6112410ee00788174f290ed9ef5d9e6b819",
+      "title": "Shankenwhoop - Personal ELRS bind phrase",
       "firmware_version": [
         "4.4",
         "4.5"
@@ -298,8 +298,8 @@
     },
     {
       "fullPath": "presets/4.4/vtx/shankenwhoop_vtx.txt",
-      "hash": "37276e7ad4c938f37c935c61728d4d578d75b146f8ecd57f5b8d767ef6527b7c",
-      "title": "Personal VTX settings",
+      "hash": "7c9d135c185076447b342ea59a626716d212ce8886696ac09d6a450f9fdf9925",
+      "title": "Shankenwhoop - Personal VTX settings",
       "firmware_version": [
         "4.4",
         "4.5"

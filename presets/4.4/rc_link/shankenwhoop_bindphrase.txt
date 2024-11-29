@@ -1,4 +1,4 @@
-#$ TITLE: Personal ELRS bind phrase
+#$ TITLE: Shankenwhoop - Personal ELRS bind phrase
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: RC_LINK

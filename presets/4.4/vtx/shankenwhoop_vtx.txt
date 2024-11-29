@@ -1,4 +1,4 @@
-#$ TITLE: Personal VTX settings
+#$ TITLE: Shankenwhoop - Personal VTX settings
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: VTX

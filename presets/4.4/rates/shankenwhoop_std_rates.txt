@@ -1,4 +1,4 @@
-#$ TITLE: Custom Freestyle and Race Rates
+#$ TITLE: Shankenwhoop - Freestyle and Race Rates
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: RATES

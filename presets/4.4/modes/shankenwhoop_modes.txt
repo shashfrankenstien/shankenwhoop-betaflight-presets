@@ -1,4 +1,4 @@
-#$ TITLE: Modes settings
+#$ TITLE: Shankenwhoop - Modes settings
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OTHER
