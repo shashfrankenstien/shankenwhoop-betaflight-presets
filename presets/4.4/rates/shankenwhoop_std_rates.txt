@@ -6,12 +6,12 @@
 #$ KEYWORDS: shankenwhoop, rates, race, freestyle
 #$ AUTHOR: shankenwhoop
 #$ DESCRIPTION: Sets standard freestyle and race rates that best suite my personal preferences
-#$ WARNING: This overwrites Rate profile 0, 1 and 2
+#$ WARNING: This overwrites Rate profile 1, 2 and 3
 
 
 
 #$ OPTION_GROUP BEGIN: Apply rates:
-    #$ OPTION BEGIN (CHECKED): Fast Freestyle
+    #$ OPTION BEGIN (CHECKED): Fast Freestyle (Rateprofile 1)
         rateprofile 0
 
         # rateprofile 0
@@ -30,7 +30,7 @@
         set yaw_srate = 85
     #$ OPTION END
 
-    #$ OPTION BEGIN (CHECKED): Cine Race
+    #$ OPTION BEGIN (CHECKED): Cine Race (Rateprofile 2)
 
         rateprofile 1
 
@@ -51,7 +51,7 @@
     #$ OPTION END
 
 
-    #$ OPTION BEGIN (CHECKED): Vanny Race
+    #$ OPTION BEGIN (CHECKED): Vanny Race (Rateprofile 3)
 
         rateprofile 2
 
