@@ -231,8 +231,8 @@
     },
     {
       "fullPath": "presets/4.4/other/shankenwhoop_battery.txt",
-      "hash": "7652bb1c5e6d3b22df930aa098ad66db40d4c42873d390b00aa3a2bc37be7a1b",
-      "title": "Personal Battery settings",
+      "hash": "87c7a95039aca85a61e8ee73c5c868220fe6b637cae00259dfd33522d28101ad",
+      "title": "Shankenwhoop - Personal Battery settings",
       "firmware_version": [
         "4.4",
         "4.5"
@@ -262,7 +262,7 @@
     },
     {
       "fullPath": "presets/4.4/rates/shankenwhoop_std_rates.txt",
-      "hash": "7c63f245e647fbaae33138f714e0471ae5c95e57046784ebfcaf757f1a90e13c",
+      "hash": "746d2c15d9a1a21d38de0c81a51566bf7c73e98c0a6bd7781d246558ce4d51e3",
       "title": "Shankenwhoop - Freestyle and Race Rates",
       "firmware_version": [
         "4.4",

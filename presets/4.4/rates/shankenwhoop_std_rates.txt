@@ -72,7 +72,7 @@
 
     #$ OPTION END
 
-#$ OPTION GROUP END
+#$ OPTION_GROUP END
 
 
 #$ OPTION_GROUP BEGIN: Default throttle curve
@@ -89,7 +89,7 @@
         set thr_expo = 20
     #$ OPTION END
 
-#$ OPTION GROUP END
+#$ OPTION_GROUP END
 
 
 # restore original rateprofile selection

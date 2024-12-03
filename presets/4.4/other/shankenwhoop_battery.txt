@@ -1,4 +1,4 @@
-#$ TITLE: Personal Battery settings
+#$ TITLE: Shankenwhoop - Personal Battery settings
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OTHER
