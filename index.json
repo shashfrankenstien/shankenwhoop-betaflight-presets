@@ -167,7 +167,7 @@
   "presets": [
     {
       "fullPath": "presets/4.4/modes/shankenwhoop_modes.txt",
-      "hash": "38f0f5764468dd799cc5b11a99cd4c1d545d925d2a3afef96473964aed02862c",
+      "hash": "5d204e36755de6e949ebf723f30f09423168996bb786d1be02ecbd2ebe2bdc3e",
       "title": "Shankenwhoop - Modes settings",
       "firmware_version": [
         "4.4",
@@ -200,7 +200,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/shankenwhoop_analog.txt",
-      "hash": "8c5d51c5a388b5db4673e49b1656751c7a065b82ab889364323997fd19cadc52",
+      "hash": "d2efb99a89628cb2c3f8dd4672eaa8b8725ef0ee2a032adda5194028b4d64e39",
       "title": "Shankenwhoop - OSD Elements",
       "firmware_version": [
         "4.4",
@@ -262,7 +262,7 @@
     },
     {
       "fullPath": "presets/4.4/rates/shankenwhoop_std_rates.txt",
-      "hash": "363558a05c28883739bfb588a88a54aac46fe62df0f986f0418cda956efedec8",
+      "hash": "80cedbcb43142ca5aec72755dce5f886295120fa4d99464a3bdba3ac8c4acd1c",
       "title": "Shankenwhoop - Freestyle and Race Rates",
       "firmware_version": [
         "4.4",

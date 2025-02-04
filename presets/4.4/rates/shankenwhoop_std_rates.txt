@@ -24,7 +24,7 @@
         set yaw_rc_rate = 18
         set roll_expo = 52
         set pitch_expo = 52
-        set yaw_expo = 46
+        set yaw_expo = 45
         set roll_srate = 95
         set pitch_srate = 95
         set yaw_srate = 85
@@ -39,15 +39,15 @@
         set quickrates_rc_expo = OFF
 
         set rateprofile_name = Race
-        set roll_rc_rate = 20
-        set pitch_rc_rate = 18
-        set yaw_rc_rate = 16
-        set roll_expo = 38
-        set pitch_expo = 38
-        set yaw_expo = 35
-        set roll_srate = 60
-        set pitch_srate = 60
-        set yaw_srate = 50
+        set roll_rc_rate = 23
+        set pitch_rc_rate = 21
+        set yaw_rc_rate = 19
+        set roll_expo = 43
+        set pitch_expo = 43
+        set yaw_expo = 38
+        set roll_srate = 45
+        set pitch_srate = 45
+        set yaw_srate = 40
     #$ OPTION END
 
 
@@ -60,16 +60,36 @@
         set quickrates_rc_expo = OFF
 
         set rateprofile_name = Race2
-        set roll_rc_rate = 20
-        set pitch_rc_rate = 20
-        set yaw_rc_rate = 20
-        set roll_expo = 43
-        set pitch_expo = 43
-        set yaw_expo = 43
-        set roll_srate = 49
-        set pitch_srate = 49
-        set yaw_srate = 49
+        set roll_rc_rate = 21
+        set pitch_rc_rate = 18
+        set yaw_rc_rate = 18
+        set roll_expo = 45
+        set pitch_expo = 45
+        set yaw_expo = 42
+        set roll_srate = 48
+        set pitch_srate = 48
+        set yaw_srate = 48
+    #$ OPTION END
 
+
+    #$ OPTION BEGIN (CHECKED): Tinexd Freestyle (Rateprofile 4)
+
+        rateprofile 3
+
+        # rateprofile 3
+        set rates_type = ACTUAL
+        set quickrates_rc_expo = OFF
+
+        set rateprofile_name = FrStyl2
+        set roll_rc_rate = 21
+        set pitch_rc_rate = 18
+        set yaw_rc_rate = 18
+        set roll_expo = 45
+        set pitch_expo = 45
+        set yaw_expo = 42
+        set roll_srate = 48
+        set pitch_srate = 48
+        set yaw_srate = 48
     #$ OPTION END
 
 #$ OPTION_GROUP END
